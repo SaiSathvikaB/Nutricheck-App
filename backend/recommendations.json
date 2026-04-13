@@ -1,0 +1,228 @@
+{
+  "anemia": {
+    "condition": "Iron Deficiency Anemia",
+    "description": "A hematological condition characterized by reduced hemoglobin levels due to insufficient iron, leading to decreased oxygen-carrying capacity of blood.",
+    "symptoms": [
+      "Fatigue",
+      "Pallor (pale skin)",
+      "Shortness of breath",
+      "Dizziness",
+      "Cold extremities",
+      "Headache"
+    ],
+    "veg_foods": [
+      "Spinach (palak)",
+      "Beetroot",
+      "Pomegranate",
+      "Dates (khajoor)",
+      "Black raisins (kismis)",
+      "Lentils (masoor dal)",
+      "Chickpeas (chana)"
+    ],
+    "nonveg_foods": [
+      "Chicken liver",
+      "Goat liver",
+      "Lean red meat (mutton)",
+      "Egg yolk",
+      "Sardines",
+      "Tuna fish",
+      "Chicken breast"
+    ],
+    "foods_to_avoid": [
+      "Tea (tannins inhibit iron absorption)",
+      "Coffee",
+      "Milk during iron-rich meals",
+      "Cheese with iron-rich foods",
+      "Calcium supplements with meals",
+      "Refined wheat flour (maida-heavy foods)"
+    ]
+  },
+
+  "iodine": {
+    "condition": "Iodine Deficiency Disorder",
+    "description": "A nutritional deficiency affecting thyroid hormone production, leading to metabolic imbalance and potential enlargement of the thyroid gland.",
+    "symptoms": [
+      "Goiter (neck swelling)",
+      "Fatigue",
+      "Weight gain",
+      "Dry skin",
+      "Cold intolerance",
+      "Slow heart rate"
+    ],
+    "veg_foods": [
+      "Iodized salt",
+      "Seaweed (kelp, nori)",
+      "Boiled potatoes with skin",
+      "Cranberries",
+      "Strawberries",
+      "Navy beans",
+      "Yogurt (curd)"
+    ],
+    "nonveg_foods": [
+      "Cod fish",
+      "Tuna fish",
+      "Shrimp",
+      "Eggs",
+      "Milk",
+      "Cheese",
+      "Fish oil (omega-3 rich)"
+    ],
+    "foods_to_avoid": [
+      "Excess cabbage (raw)",
+      "Raw cauliflower",
+      "Raw broccoli",
+      "Soy products (in excess)",
+      "Millet (in excess for thyroid issues)",
+      "Highly salted packaged snacks (non-iodized salt)"
+    ]
+  },
+
+  "malnutrition": {
+    "condition": "Protein-Energy Malnutrition",
+    "description": "A condition caused by inadequate intake of calories and protein, leading to loss of body mass, weakened immunity, and impaired physiological function.",
+    "symptoms": [
+      "Weight loss",
+      "Muscle wasting",
+      "Weakness",
+      "Frequent infections",
+      "Delayed wound healing",
+      "Hair thinning"
+    ],
+    "veg_foods": [
+      "Rice",
+      "Bananas",
+      "Potatoes",
+      "Whole wheat chapati",
+      "Peanut butter",
+      "Almonds",
+      "Milk"
+    ],
+    "nonveg_foods": [
+      "Eggs",
+      "Chicken",
+      "Fish (salmon, mackerel)",
+      "Lean beef",
+      "Goat meat",
+      "Chicken soup",
+      "Bone broth"
+    ],
+    "foods_to_avoid": [
+      "Carbonated soft drinks (cola)",
+      "Packaged fruit juices with added sugar",
+      "Instant noodles",
+      "Deep fried snacks (pakoras, chips)",
+      "Refined sugar sweets (candies, pastries)",
+      "Excess tea replacing meals"
+    ]
+  },
+
+  "pellagra": {
+    "condition": "Niacin (Vitamin B3) Deficiency",
+    "description": "A nutritional disorder caused by insufficient niacin intake, classically presenting with dermatitis, diarrhea, and neurological disturbances.",
+    "symptoms": [
+      "Dermatitis (sun-exposed skin rash)",
+      "Diarrhea",
+      "Confusion",
+      "Memory loss",
+      "Irritability",
+      "Glossitis (inflamed tongue)"
+    ],
+    "veg_foods": [
+      "Peanuts",
+      "Brown rice",
+      "Whole wheat",
+      "Sunflower seeds",
+      "Green peas",
+      "Mushrooms",
+      "Avocado"
+    ],
+    "nonveg_foods": [
+      "Chicken breast",
+      "Turkey",
+      "Tuna fish",
+      "Salmon",
+      "Eggs",
+      "Lean pork",
+      "Fish oil"
+    ],
+    "foods_to_avoid": [
+      "Alcohol",
+      "Corn-based diet without protein (maize-heavy diet)",
+      "Sugary beverages",
+      "Refined flour foods",
+      "Processed meat (sausages, salami)",
+      "Deep fried foods"
+    ]
+  },
+
+  "zinc_deficiency": {
+    "condition": "Zinc Deficiency",
+    "description": "A micronutrient deficiency that impairs immune function, wound healing, and cellular growth.",
+    "symptoms": [
+      "Hair loss",
+      "Poor wound healing",
+      "Reduced immunity",
+      "Loss of appetite",
+      "Skin lesions",
+      "Delayed growth"
+    ],
+    "veg_foods": [
+      "Pumpkin seeds",
+      "Chickpeas",
+      "Cashew nuts",
+      "Almonds",
+      "Oats",
+      "Quinoa",
+      "Kidney beans (rajma)"
+    ],
+    "nonveg_foods": [
+      "Oysters",
+      "Crab",
+      "Red meat (beef, mutton)",
+      "Chicken",
+      "Eggs",
+      "Fish (salmon, sardines)",
+      "Liver"
+    ],
+    "foods_to_avoid": [
+      "Alcohol",
+      "High sugar desserts",
+      "White bread (refined flour)",
+      "Carbonated beverages",
+      "Processed cheese",
+      "Deep fried fast foods"
+    ]
+  },
+
+  "healthy": {
+    "condition": "Normal Nutritional Status",
+    "description": "No significant nutritional deficiencies detected; physiological parameters appear within normal limits.",
+    "symptoms": [],
+    "veg_foods": [
+      "Apple",
+      "Banana",
+      "Spinach",
+      "Carrot",
+      "Broccoli",
+      "Whole grains (brown rice, oats)",
+      "Almonds"
+    ],
+    "nonveg_foods": [
+      "Eggs",
+      "Chicken breast",
+      "Fish (salmon)",
+      "Lean mutton",
+      "Milk",
+      "Curd",
+      "Paneer"
+    ],
+    "foods_to_avoid": [
+      "Sugary soft drinks",
+      "Packaged chips",
+      "Instant noodles",
+      "Deep fried snacks",
+      "Refined sugar desserts",
+      "Processed meats"
+    ]
+  }
+}
