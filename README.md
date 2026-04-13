@@ -1,12 +1,7 @@
-Here’s a clean, professional **README.md** you can directly copy and use for your project 👇
-
----
 
 # 🧠 NutriCheck – AI-Based Malnutrition Detection System
 
 NutriCheck is an AI-powered mobile application that analyzes facial images along with user health data to detect possible nutritional deficiencies and provide personalized dietary recommendations.
-
----
 
 ## 🚀 Features
 
@@ -25,7 +20,6 @@ NutriCheck is an AI-powered mobile application that analyzes facial images along
 * 🧪 **Multiple Face Validation**
   Ensures only one face is present for accurate analysis.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +43,6 @@ NutriCheck is an AI-powered mobile application that analyzes facial images along
 * Foursquare Places API
 * OpenStreetMap (Overpass + Nominatim)
 
----
 
 ## 📂 Project Structure
 
@@ -70,8 +63,6 @@ mobileapp/
 └── README.md
 ```
 
----
-
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
@@ -81,7 +72,7 @@ git clone https://github.com/your-username/Nutricheck-App.git
 cd Nutricheck-App
 ```
 
----
+
 
 ### 2️⃣ Backend Setup
 
@@ -120,7 +111,7 @@ npx expo start
   ```
 * 📶 Ensure backend and mobile are on the same network (for API calls).
 
----
+
 
 ## 📸 How It Works
 
@@ -130,13 +121,13 @@ npx expo start
    * No face ❌
    * Multiple faces ❌
    * Single face ✅
-3. Image is passed to CNN model
+3. Image is passed to CLIP model
 4. Model predicts deficiencies
 5. BMI is calculated
 6. Recommendations are generated
 7. Nearby hospitals are suggested
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -145,6 +136,5 @@ npx expo start
 * Cloud deployment (AWS / Firebase)
 * User history tracking
 
----
 
 
