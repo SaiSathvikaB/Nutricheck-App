@@ -6,7 +6,7 @@ NutriCheck is an AI-powered mobile application that analyzes facial images along
 ## 🚀 Features
 
 * 📸 **Face-based Analysis**
-  Upload an image and detect nutritional deficiencies using a CNN model.
+  Upload an image and detect nutritional deficiencies using a CLIP+CNN model.
 
 * ⚖️ **BMI Calculation**
   Calculates BMI using CDC growth charts for accurate health assessment.
